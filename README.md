@@ -14,7 +14,7 @@ This page was created for employers to see my work and enthusiasts to review my 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | HIPAA Compliant for AI Usage                  | <a href="https://github.com/cyberproprojects/HIPAA-Compliance-for-AI.git">HIPAA Compliance Project</a>|
-| ISO 27001 SoA for Cloud Infrastructure        | <a href="https://google.com">ISO 27001 SoA for Cloud</a>|
+| ISO 27001 SoA for Cloud Infrastructure        | <a href="https://github.com/cyberproprojects/ISO-27001-Cloud-Controls-.git">ISO 27001 SoA for Cloud</a>|
 | Risk Assessment for EU AI Act                 | <a href="https://google.com">AI Risk Assessment</a>|
 | GRC Controls and Automation                   | <a href="https://google.com">Reviewing GRC Automation</a>|
 | Network Segmentation for PCI DSS Compliance   | <a href="https://github.com/cyberproprojects/PCI-DSS-Compliance-Network-Segmentation.git">Reviewing PCI DSS Compliance</a>|
