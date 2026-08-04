@@ -13,6 +13,7 @@ This page was created for employers to see my work and enthusiasts to review my 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| HIPAA Compliant for AI Usage                  | <a href="https://google.com">HIPAA Compliance Project</a>|
 | ISO 27001 SoA for Cloud Infrastructure        | <a href="https://google.com">ISO 27001 SoA for Cloud</a>|
 | Risk Assessment for EU AI Act                 | <a href="https://google.com">AI Risk Assessment</a>|
 | GRC Controls and Automation                   | <a href="https://google.com">Reviewing GRC Automation</a>|
