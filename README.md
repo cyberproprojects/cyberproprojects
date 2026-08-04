@@ -2,45 +2,26 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=green" /></a>
 
 
-I am a Masters of Science graduate in cybersecurity with a profound interest in OSINT and Recon methodologies.
+I am a Masters of Science graduate in Cybersecurity Management with a profound interest in GRC and Auditing.
 
 ## Objective
 
 This page was created for employers to see my work and enthusiasts to review my work and provide feedback.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OSINT Methodologies                           | <a href="https://google.com">Detection Lab</a>|
-| Threat Hunter Tools & Methodologies           | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Digital Investigator                          | SOC Automation Lab|
-| AI Red Team Methodologies                     | SOC Automation Lab|
-| Security Risk Graduate Research               | SOC Automation Lab|
+| ISO 27001 SoA for Cloud Infrastructure        | <a href="https://google.com">ISO 27001 SoA for Cloud</a>|
+| Risk Assessment for EU AI Act                 | <a href="https://google.com">AI Risk Assessment</a>|
+| GRC Controls and Automation                   | <a href="https://google.com">Reviewing GRC Automation</a>|
+| Network Segmentation for PCI DSS Compliance   | <a href="https://google.com">Reviewing PCI DSS Compliance</a>|
+| Mitigating Vague Language in Risk Acceptance  | <a href="https://google.com">GRC Documentation Issues in the Workforce</a>|
+| Compliance Audit from NIST 800-53             | <a href="https://google.com">NIST 800-53 Compliance Audit</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -53,6 +34,4 @@ This page was created for employers to see my work and enthusiasts to review my 
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
