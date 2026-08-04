@@ -18,7 +18,7 @@ This page was created for employers to see my work and enthusiasts to review my 
 | Risk Assessment for EU AI Act                 | <a href="https://github.com/cyberproprojects/Risk-Assessment-for-EU-AI-ACT.git">AI Risk Assessment</a>|
 | GRC Controls and Automation                   | <a href="https://github.com/cyberproprojects/GRC-Controls-Automation.git">Reviewing GRC Automation</a>|
 | Network Segmentation for PCI DSS Compliance   | <a href="https://github.com/cyberproprojects/PCI-DSS-Compliance-Network-Segmentation.git">Reviewing PCI DSS Compliance</a>|
-| Mitigating Vague Language in Risk Acceptance  | <a href="https://google.com">GRC Documentation Issues in the Workforce</a>|
+| Mitigating Vague Language in Risk Acceptance  | <a href="https://github.com/cyberproprojects/Risk-Acceptance-Documentation.git">GRC Documentation Issues in the Workforce</a>|
 | Compliance Audit from NIST 800-53             | <a href="https://google.com">NIST 800-53 Compliance Audit</a>|
 
 
