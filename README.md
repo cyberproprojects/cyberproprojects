@@ -15,7 +15,6 @@ This page was created for employers to see my work and enthusiasts to review my 
 |-----------------------------------------------|----------------------------|
 | ISO 27001 SoA for AWS Cloud Infrastructure    | <a href="https://github.com/cyberproprojects/ISO-27001-Cloud-Controls-.git">ISO 27001 SoA for Cloud</a>|
 | Responsible Risk Assessment for EU AI Act     | <a href="https://github.com/cyberproprojects/Risk-Assessment-for-EU-AI-ACT.git">AI Risk Assessment</a>|
-| GRC Controls and Automation                   | <a href="https://github.com/cyberproprojects/GRC-Controls-Automation.git">Reviewing GRC Automation</a>|
 
 
 
