@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=green" /></a>
 
 
-I am a Masters of Science graduate in Cybersecurity Management with a profound interest in GRC and Auditing.
+I am a CS graduate with a profound interest in GRC and Auditing.
 
 ## Objective
 
